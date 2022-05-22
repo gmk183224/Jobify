@@ -1,4 +1,4 @@
-import Logo from '../components/Logo.js';
+import {Logo} from '../components';
 import main from '../assets/images/main.svg';
 import Wrapper from '../assets/wrappers/LandingPage.js';
 
